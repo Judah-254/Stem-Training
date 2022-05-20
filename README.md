@@ -18,6 +18,7 @@ Lists
   >Indexes
   >Strings as lists or not
   >Nested lists (matrixes")
-  >
+ Assignment: Build a complex calculator to receive input from the user and manipulate values (USE THE WHILE AND FOR LOOPS)
+ 
 
 
