@@ -7,7 +7,7 @@ Manipulating Basic variables
 ## Day-3
 Building a complex calculator
 Control flow
-Day-4
+##Day-4
 Control flows
   >If statements
   >Else, elif
@@ -18,7 +18,8 @@ Lists
   >Indexes
   >Strings as lists or not
   >Nested lists (matrixes")
- Assignment: Build a complex calculator to receive input from the user and manipulate values (USE THE WHILE AND FOR LOOPS)
- 
+ Assignment: Build a complex calculator to receive input from the user and manipulate values
+ ## Day-5
+ Lists manipulation
 
 
