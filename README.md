@@ -21,5 +21,9 @@ Lists
  Assignment: Build a complex calculator to receive input from the user and manipulate values
  ## Day-5
  Lists manipulation
-
-
+ ##Day-6
+Lists 
+tupples 
+Sets functions
+#Day-7
+Dictionaries in python
