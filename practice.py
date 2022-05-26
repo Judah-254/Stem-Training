@@ -1,0 +1,3 @@
+s='dichlorodifinaeldichloroethene'
+len(s)
+

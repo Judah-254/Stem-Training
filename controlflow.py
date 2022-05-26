@@ -1,5 +1,5 @@
 #IF statements
-x=0
+x=20
 if x>=1:
     print ("Hey im still there")
     x-=1
@@ -23,9 +23,13 @@ elif Grade >50 and Grade <60:
     print ("Student got a D")
 elif Grade >40 and Grade <50:
     print ("Student got a E")
-else:
-    Grade >30
+elif Grade <=39 and Grade >=1:
     print("Below average")
+elif Grade>101:
+    print("invalid")
+else:
+    print("invalid")
+
 
 
 
