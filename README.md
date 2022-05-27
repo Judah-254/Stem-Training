@@ -27,3 +27,8 @@ Lists
 >Sets functions
 #Day-7
 >Dictionaries in python
+>Read files
+>Write files
+>Appending files
+##Day-8
+>Object Oriented Programming(O.O.P)
